@@ -3,7 +3,10 @@ import AddTask from "./components/AddTask";
 import { useState, useEffect } from "react";
 
 function App() {
-  const [tasks, setTasks] = useState(JSON.parse(localStorage.getItem("tasks")));
+  const [tasks, setTasks] = useState(() => {
+    const savedTasks = localStorage.getItem("tasks");
+    return savedTasks ? JSON.parse(savedTasks) : [];
+  });
 
   // Sempre que tasks mudar, salva no localStorage
   useEffect(() => {
