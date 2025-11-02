@@ -1,8 +1,47 @@
-# React + Vite
+# Gerenciador de Tarefas com React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido para **demonstrar minha aprendizagem nos conceitos iniciais do React**.  
+A aplicação é um simples e funcional **gerenciador de tarefas**, criado com **React** e **TailwindCSS**, que permite adicionar, marcar como concluídas e remover tarefas.  
+Os dados são salvos no **LocalStorage**, garantindo que as tarefas sejam mantidas mesmo após atualizar a página.
 
-Currently, two official plugins are available:
+O foco principal deste projeto é **praticar e consolidar os fundamentos do React**, como:
+- Componentes funcionais
+- Manipulação de estado com `useState`  
+- Efeitos colaterais com `useEffect`  
+- Interação entre componentes no React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## - Funcionalidades
+
+- Adicionar novas tarefas  
+- Marcar tarefas como concluídas  
+- Remover tarefas  
+- Salvamento automático no LocalStorage
+- 
+---
+
+## - Aprendizados
+Durante o desenvolvimento deste projeto, aprendi:
+
+- Como criar e gerenciar **componentes funcionais** no React  
+- Como utilizar o **useState** e o **useEffect**  
+- Como aplicar **estilos responsivos** usando o **TailwindCSS**  
+- A importância da **organização e reuso de componentes**
+
+---
+
+## - Tecnologias utilizadas
+
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [TailwindCSS](https://tailwindcss.com/)  
+- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+---
+
+## - Acesse a aplicação
+
+**[Clique aqui para acessar o projeto online]([https://gerenciador-tarefa-react-snowy.vercel.app/])**  
+
+
