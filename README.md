@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas com React + Vite
+2# Gerenciador de Tarefas com React + Vite
 
 Este projeto foi desenvolvido para **demonstrar minha aprendizagem nos conceitos iniciais do React**.  
 A aplicação é um simples e funcional **gerenciador de tarefas**, criado com **React** e **TailwindCSS**, que permite adicionar, marcar como concluídas e remover tarefas.  
@@ -42,6 +42,7 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 ## - Acesse a aplicação
 
-**[Clique aqui para acessar o projeto online]([https://gerenciador-tarefa-react-snowy.vercel.app/])**  
+**[Clique aqui para acessar o projeto online](https://gerenciador-tarefa-react-snowy.vercel.app/)**
+
 
 
